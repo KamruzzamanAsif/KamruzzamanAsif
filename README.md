@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamruzzamanasif" alt="kamruzzamanasif" /></a> </p>
 
-- 🌱 I’m currently learning **Java and JavaFX**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **asif720kamruzzaman@gmail.com**
 
