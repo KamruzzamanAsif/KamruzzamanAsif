@@ -38,7 +38,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=KamruzzamanAsif&theme=darcula)](https://git.io/streak-stats) 
 
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=abirahmed72&label=Profile%20views&color=0e75b6&style=flat" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KamruzzamanAsif&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 <br>
 
 <h3>Skills & Expertise:</h3>
