@@ -12,7 +12,7 @@
 
 👯 I am eagerly seeking collaboration opportunities for **HCI development projects**.
 
-💬 Feel free to reach out to me for discussions on **HCI, Deeplearning & Software Engineering**
+💬 Feel free to reach out to me for discussions on **HCI, Deep Learning & Software Engineering**
 
 📫 You can **[Email Me](mailto:asif720kamruzzaman@gmail.com)** for any discussion.
 <br> <br>
@@ -72,7 +72,6 @@
 
 **💾 Database:**
 
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
