@@ -8,11 +8,11 @@
 </p>
 
 
-🌱 My ongoing learning journey encompasses **Machine Learning & Deep Learning**.
+🌱 My ongoing learning journey encompasses **Trustworthy AI**.
 
-👯 I am eagerly seeking collaboration opportunities for **HCI development projects**.
+👯 I am eagerly seeking collaboration opportunities for **NeuroSymbolic AI projects**.
 
-💬 Feel free to reach out to me for discussions on **HCI, Deep Learning & Software Engineering**
+💬 Feel free to reach out to me for discussions on **NeuroSymbolic AI & Software Engineering**
 
 📫 You can **[Email Me](mailto:asif720kamruzzaman@gmail.com)** for any discussion.
 <br> <br>
